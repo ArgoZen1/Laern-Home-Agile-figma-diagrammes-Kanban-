@@ -34,3 +34,9 @@ https://www.notion.so/79d95e31b5524d159be971cb8fb17dc4?v=3b600bf746f94f819973454
 
 <h2>User stories</h2>
 https://github.com/ArgoZen1/Laern-Home-Agile-figma-diagrammes-Kanban-/blob/main/Ares_Romain_2user_stories_122022.pdf
+
+<h2>Ce que j'ai appris:</h2>
+1. La gestion de projet agile<br>
+2. Gérer un projet informatique de manière professionnelle en utilisant les méthodologies agiles<br>
+3. Réaliser un cahier des charges fonctionnel pour les besoins d'un client<br>
+4. Créer une maquette web avec Figma
