@@ -29,3 +29,5 @@ https://www.figma.com/file/y8GfbKdC0LabSrXHF3WNc2/Learn%40Home?node-id=0%3A1&t=D
 <h2>Diagramme de cas d'usage</h2>
 https://github.com/ArgoZen1/Laern-Home-Agile-figma-diagrammes-Kanban-/blob/main/Ares_Romain_1diagramme_cas_usage122022.pdf
 
+<h2>Kanban</h2>
+https://www.notion.so/79d95e31b5524d159be971cb8fb17dc4?v=3b600bf746f94f81997345429d0c5a05
