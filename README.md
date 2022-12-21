@@ -32,4 +32,5 @@ https://github.com/ArgoZen1/Laern-Home-Agile-figma-diagrammes-Kanban-/blob/main/
 <h2>Kanban</h2>
 https://www.notion.so/79d95e31b5524d159be971cb8fb17dc4?v=3b600bf746f94f81997345429d0c5a05
 
-<h2>https://github.com/ArgoZen1/Laern-Home-Agile-figma-diagrammes-Kanban-/blob/main/Ares_Romain_2user_stories_122022.pdf</h2>
+<h2>User stories</h2>
+https://github.com/ArgoZen1/Laern-Home-Agile-figma-diagrammes-Kanban-/blob/main/Ares_Romain_2user_stories_122022.pdf
